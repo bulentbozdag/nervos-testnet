@@ -90,7 +90,8 @@ https://explorer.nervos.org/aggron/transaction/0x47f3ed4f907b7b3803d78ab534f53d2
 ![deposited-layer2](deposited-layer2.jpg)
 
 5-The SUDT ID from the console output after executing the deposit script (in text format).
-1449
+
+Your sudt id: 1581
  
  
 
