@@ -7,4 +7,16 @@ Setup A Local CKB Node And CKB Indexer For The Testnet
 
 2. Setup a CKB Indexer
 
-![NODE](indexer.jpg)
+![Indexer](indexer.jpg)
+
+
+
+1) Create A Godwoken Account On The EVM Layer 2 Testnet
+
+![Account](account.jpg)
+
+https://explorer.nervos.org/aggron/address/ckt1qyqr0ue8xd08g4n9thyrrrkuvhrtjet29rwsvfpkl0
+
+
+Deposit 
+![Deposit](Deposit.jpg)
