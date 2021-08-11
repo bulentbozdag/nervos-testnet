@@ -1,5 +1,5 @@
 # nervos-testnet
-:point_right: Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
+### Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet#
 
 1. Setup a CKB Node:
 
@@ -9,9 +9,9 @@
 
 ![Indexer](indexer.jpg)
 
+------------
 
-
-:point_right: Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+### Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
 
 ![Account](account.jpg)
 
@@ -21,17 +21,18 @@ https://explorer.nervos.org/aggron/address/ckt1qyqr0ue8xd08g4n9thyrrrkuvhrtjet29
 Deposit 
 ![Deposit](Deposit.jpg)
 
+------------
 
-:point_right: Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+### Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 ![Deployed](Deployed.jpg)
 
 Transaction hash: 0x31b39ef655191bc84a7f79c0804f84e5d97c8b19c35a8cf8832f48f857bd3f27
 
 Deployed contract address: 0x16C024484E7531338ce849b8621c4F15C2436e3d
 
+------------
 
-
-:point_right: Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
+### Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
 ![Call-contract](Call-contract.jpg)
 
  transactionHash: 0xac91cc38caf6e69f71513722db348c1ee3e93d0b84a8b66285b3b35af6fddadf
@@ -74,8 +75,9 @@ ABI:
     }
 ]
 
+------------
 
-:point_right: Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+### Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
 1-A link to the Layer 1 address you funded on the Testnet Explorer:
 https://explorer.nervos.org/aggron/address/ckt1qyqr0ue8xd08g4n9thyrrrkuvhrtjet29rwsvfpkl0
