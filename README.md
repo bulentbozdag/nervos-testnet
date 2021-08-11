@@ -94,7 +94,8 @@ https://explorer.nervos.org/aggron/transaction/0x47f3ed4f907b7b3803d78ab534f53d2
 5-The SUDT ID from the console output after executing the deposit script (in text format).
 
 Your sudt id: 1581
- 
+
+------------
  
 ### Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
 ![5-deployed-sc](5-deployed-sc.jpg)
