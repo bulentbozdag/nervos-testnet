@@ -19,5 +19,5 @@
 
 #### 3) A link to the GitHub repository with your EVM application that integrates Force Bridge support.
 
-https://github.com/bulentbozdag/nervos-testnet/tree/main/task-8
+https://github.com/bulentbozdag/Scores-on-Blockchain-DAPPS
 
